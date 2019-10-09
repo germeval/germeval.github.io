@@ -3,8 +3,8 @@ layout: post
 title:  "GermEval at KONVENS 2019 in Erlangen"
 date:   2019-10-08 15:05:00
 description: "Post on the GermEval event at KONVENS 2019 in Erlangen"
-image: img/Konvens2019.png
-hero_image: img/Konvens2019.png
+image: https://germeval.github.io/img/Konvens2019.png
+hero_image: https://germeval.github.io/img/Konvens2019.png
 hero_height: is-large
 published: true
 tags: konvens
