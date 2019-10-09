@@ -15,7 +15,5 @@
       link: /page-without-hero/
     - name: Landing Page With Callouts
       link: /landing/
-- name: Products
-  link: /products/
-- name: Blog
-  link: /blog/
+- name: News
+  link: /news/
