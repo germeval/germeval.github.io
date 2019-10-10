@@ -1,6 +1,7 @@
 ---
 title: GermEval Task Overview
 subtitle:
+hero_height: is-small
 layout: page
 show_sidebar: false
 ---
