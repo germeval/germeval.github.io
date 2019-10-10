@@ -2,3 +2,5 @@
   link: /tasks
 - name: News
   link: /news/
+- name: Github
+  link: https://github.com/germeval
