@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GermEval at KONVENS 2019 in Erlangen"
+title:  "GermEval at KONVENS 2019"
 date:   2019-10-08 15:05:00
 description: "Post on the GermEval event at KONVENS 2019 in Erlangen"
 image: https://germeval.github.io/img/Konvens2019.png
@@ -12,4 +12,5 @@ canonical_url: https://germeval.github.io/2019/10/08/germeval-at-konvens-2019.ht
 ---
 
 
-Here goes the content
+GermEval 2019 was successfully held at KONVENS in Erlangen on October 8, 2019.
+More information can be found on the [workshop webpage](https://2019.konvens.org/germeval) or - of course - on this site.
