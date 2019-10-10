@@ -1,6 +1,6 @@
 - name: Tasks
   link: /tasks
 - name: News
-  link: /news/
+  link: /blog/
 - name: Github
   link: https://github.com/germeval
