@@ -1,4 +1,5 @@
 style: is-light
+height: is-medium
 items:
   - title: Systems
     subtitle: Reference your GermEval system
