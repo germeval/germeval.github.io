@@ -2,6 +2,7 @@
 title: GermEval Shared Task Hub
 subtitle: Natural Language Processing shared tasks for German
 layout: page
+hero_height: is-small
 callouts: home_callouts
 show_sidebar: true
 ---
