@@ -1,5 +1,5 @@
 ---
-title: German Shared Task Hub
+title: GermEval Shared Task Hub
 subtitle: Natural Language Processing shared tasks for German
 layout: page
 callouts: home_callouts
