@@ -1,11 +1,11 @@
 style: is-light
 items:
-  - title: Fact1
-    subtitle: ...
-    icon: fa-copy
-  - title: News2
-    subtitle: ...
-    icon: fa-mail-bulk
-  - title: Contribute
-    subtitle: Add content by making a pull request
+  - title: Systems
+    subtitle: Reference your GermEval system
+    icon: fas fa-laptop
+  - title: Data
+    subtitle: Download the shared task data
+    icon: fas fa-database
+  - title: Community
+    subtitle: Connect with other participants
     icon: fab fa-github

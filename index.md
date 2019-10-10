@@ -8,4 +8,4 @@ show_sidebar: true
 
 # GermEval
 
-What is GermEval about?
+GermEval is a series of shared task evaluation campaigns that focus on Natural Language Processing for the German language.
