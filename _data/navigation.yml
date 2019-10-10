@@ -1,7 +1,4 @@
-- name: Shared Tasks
-  link: /#
-  dropdown:
-    - name: 2019
-      link: /shared-tasks/2019/
+- name: Tasks
+  link: /tasks
 - name: News
   link: /news/
