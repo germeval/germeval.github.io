@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Call for Tasks 2020"
+date:   2019-11-05 05:11:00
+description: "Call for Tasks 2020"
+image: https://germeval.github.io/img/swisstext2020.jpg
+hero_image: https://germeval.github.io/img/swisstext2020.jpg
+hero_height: is-large
+published: true
+tags: konvens
+canonical_url: https://germeval.github.io/2019/11/05/call-for-tasks-2020.html
+---
+
+
+The call for tasks 2020 has been published:
+[https://swisstext-and-konvens-2020.org/call-for-shared-tasks/](https://swisstext-and-konvens-2020.org/call-for-shared-tasks/)
