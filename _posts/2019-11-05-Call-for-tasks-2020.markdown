@@ -3,8 +3,8 @@ layout: post
 title:  "Call for Tasks 2020"
 date:   2019-11-05 05:11:00
 description: "Call for Tasks 2020"
-image: https://germeval.github.io/img/swisstext2020.jpg
-hero_image: https://germeval.github.io/img/swisstext2020.jpg
+image: https://germeval.github.io/img/swisstext2020.png
+hero_image: https://germeval.github.io/img/swisstext2020.png
 hero_height: is-large
 published: true
 tags: konvens
