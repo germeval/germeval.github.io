@@ -10,9 +10,9 @@ show_sidebar: false
 
 Workshop Website: [https://swisstext-and-konvens-2020.org/shared-tasks/](https://swisstext-and-konvens-2020.org/shared-tasks/)
 
-* Task 1: [https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/germeval-2020-psychopred.html] (Prediction of Intellectual Ability and Personality Traits from Text)
-* Task 2: [https://sites.google.com/view/gswid2020] (Swiss German Language Detection)
-* Task 3: [https://sites.google.com/view/germeval2020-essayscoring/home] (Multi-Dimensional Essay Scoring on High-Proficiency Learner Data)
+* Task 1: [Prediction of Intellectual Ability and Personality Traits from Text](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/germeval-2020-psychopred.html)
+* Task 2: [Swiss German Language Detection](https://sites.google.com/view/gswid2020)
+* Task 3: [Multi-Dimensional Essay Scoring on High-Proficiency Learner Data](https://sites.google.com/view/germeval2020-essayscoring/home)
 * Task 4: 2nd German Text Summarization Challenge
 * Task 5: Low-Resource Speech-to-Text
 
