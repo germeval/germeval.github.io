@@ -9,6 +9,7 @@ show_sidebar: false
 ## 2020
 
 Workshop Website: [https://swisstext-and-konvens-2020.org/shared-tasks/](https://swisstext-and-konvens-2020.org/shared-tasks/)
+Email: sharedtasks@swisstext-and-konvens-2020.org 
 
 * Task 1: [Prediction of Intellectual Ability and Personality Traits from Text](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/germeval-2020-psychopred.html)
 * Task 2: [Swiss German Language Detection](https://sites.google.com/view/gswid2020)
