@@ -6,6 +6,14 @@ layout: page
 show_sidebar: false
 ---
 
+## 2021
+
+Workshop Website: [https://konvens2021.phil.hhu.de/shared-tasks/](https://konvens2021.phil.hhu.de/shared-tasks/)
+
+* [Shared Task on Scene Segmentation (STSS)](http://go.uniwue.de/stss2021)
+* [GermEval 2021 Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments](https://germeval2021toxic.github.io/SharedTask/)
+* [Shared Task on the Disambiguation of German Verbal Idioms](https://github.com/rafehr/vid-disambiguation-sharedtask)
+
 ## 2020
 
 Workshop Website: [https://swisstext-and-konvens-2020.org/shared-tasks/](https://swisstext-and-konvens-2020.org/shared-tasks/)
