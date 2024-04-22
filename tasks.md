@@ -6,6 +6,25 @@ layout: page
 show_sidebar: false
 ---
 
+## 2024
+
+Workshop Website: [https://konvens-2024.univie.ac.at/program/](https://konvens-2024.univie.ac.at/program/)
+
+* [GERMS-DETECT Sexism Detection in German Online News Fora (GERMS-DETECT)](https://ofai.github.io/GermEval2024-GerMS/)
+* [Statements in German Easy Language (StaGE)](https://german-easy-to-read.github.io/statements)
+
+## 2023
+
+Workshop Website: [https://www.thi.de/konvens-2023/program/](https://www.thi.de/konvens-2023/program/)
+
+* [Speaker Attribution 2023 Competition](https://codalab.lisn.upsaclay.fr/competitions/10431)
+
+## 2022
+
+Workshop Website: [https://konvens2022.uni-potsdam.de/?page_id=157](https://konvens2022.uni-potsdam.de/?page_id=157)
+
+* [Text Complexity DE Challenge 2022](https://qulab.github.io/text_complexity_challlenge/)
+
 ## 2021
 
 Workshop Website: [https://konvens2021.phil.hhu.de/shared-tasks/](https://konvens2021.phil.hhu.de/shared-tasks/)
