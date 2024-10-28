@@ -13,9 +13,6 @@ GermEval is a series of shared task evaluation campaigns that focus on Natural L
 
 * [Task Overview](/tasks)
 
-Organizers of tasks should follow the guidelines described here (in German):
-[Fragebogen GermEval](https://gscl.org/germeval)
-
 ## GermEval data sources
 
 * [Named Entity Corpus](https://sites.google.com/site/germeval2014ner/data)
