@@ -2,8 +2,8 @@
 
 Der folgende Fragebogen hat zwei Hauptziele:
 
-1 Der Fragebogen soll den Organisierenden der Task Hilfestellung geben, ethisch problematische Aspekte frühzeitig zu erkennen und so angemessen diskutieren oder beheben zu können.
-1 Der Fragebogen dient dazu, strukturierte Informationen über die geplante Task zusammenzustellen, auf deren Grundlage die GSCL entscheidet, ob sie die Task als GermEval bewirbt.
+1. Der Fragebogen soll den Organisierenden der Task Hilfestellung geben, ethisch problematische Aspekte frühzeitig zu erkennen und so angemessen diskutieren oder beheben zu können.
+2. Der Fragebogen dient dazu, strukturierte Informationen über die geplante Task zusammenzustellen, auf deren Grundlage die GSCL entscheidet, ob sie die Task als GermEval bewirbt.
 
 Folgende Informationen sollten enthalten sein:
 
