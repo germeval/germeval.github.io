@@ -19,3 +19,9 @@ Organizers of tasks should follow the guidelines described here (in German):
 ## GermEval data sources
 
 * [Named Entity Corpus](https://sites.google.com/site/germeval2014ner/data)
+
+## Guidelines
+
+Task organizers should follow the guidelines described here (in German):
+[Fragebogen GermEval](/guidelines)
+
