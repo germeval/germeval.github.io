@@ -1,5 +1,7 @@
 - name: Tasks
   link: /tasks
+- name: Guidelines
+  link: /guidelines
 - name: News
   link: /blog/
 - name: Github
