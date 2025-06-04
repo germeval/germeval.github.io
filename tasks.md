@@ -6,6 +6,15 @@ layout: page
 show_sidebar: false
 ---
 
+## 2025
+
+Workshop Website: [https://konvens-2025.hs-hannover.de/program/#germeval](https://konvens-2025.hs-hannover.de/program/#germeval)
+
+* [Flausch-Erkennung](https://yuliacl.github.io/GermEval2025-Flausch-Erkennung/)
+* [Harmful Content Detection in Social Media](https://www.codabench.org/competitions/4963)
+* [LLMs4Subjects](https://sites.google.com/view/llms4subjects-germeval/)
+* [Understanding Sustainability Reports](https://sustaineval.github.io/)
+
 ## 2024
 
 Workshop Website: [https://konvens-2024.univie.ac.at/program/](https://konvens-2024.univie.ac.at/program/)
