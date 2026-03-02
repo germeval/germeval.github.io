@@ -5,6 +5,12 @@ hero_height: is-small
 layout: page
 show_sidebar: false
 ---
+## 2026
+
+Workshop Website: [will be added soon)
+
+* [Harmful Content Detection](https://www.codabench.org/competitions/14006/)
+
 
 ## 2025
 
